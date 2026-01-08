@@ -1,4 +1,4 @@
-Ingredients (1 sandwich)
+##Ingredients (1 sandwich)
 
 2 slices good bread
 Sourdough or a sturdy white sandwich bread works best. Avoid very airy bread.
@@ -6,13 +6,13 @@ Sourdough or a sturdy white sandwich bread works best. Avoid very airy bread.
 2–3 slices cheese (about 2–3 oz total)
 Best options:
 
-Sharp cheddar (flavor)
-
+HELLO
 American (melting)
 
 Pepper Jack (also flavor)
 
 Gruyère (depth)
+wow
 Pro move: 1 slice American + 1 slice sharp cheddar.
 
 1½–2 tbsp butter, softened
